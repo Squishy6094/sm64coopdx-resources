@@ -13,7 +13,9 @@ Places to find specifications on SM64CoopDX's Lua API
 Libraries made to be dropped in or `require()` called in your mod.
 | Name | Maintainer | Description |
 | --- | --- | --- |
-| [oTagLib](https://github.com/Squishy6094/better-coins-coop/blob/main/libs/oTagLib.lua) | Squishy6094/better-coins-coop | Handles giving Objects Player-like Nametags |
+| [oTagLib](https://github.com/Squishy6094/better-coins-coop/blob/main/libs/oTagLib.lua) | Squishy6094/better-coins-coop | Handles giving objects player-like nametags |
+| [File Share](https://github.com/PeachyPeachSM64/coopdx-libs/tree/master/fish) | PeachyPeachSM64/coopdx-libs | Sends and receives ModFS files over the network |
+| [o2oint](https://github.com/PeachyPeachSM64/coopdx-libs/tree/master/o2oint) | PeachyPeachSM64/coopdx-libs | Handles object to object interactions. |
 
 ## External Libraries
 Library based mods made for the express purpouse of having add-ons.
