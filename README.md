@@ -15,10 +15,17 @@ Libraries made to be dropped in or `require()` called in your mod.
 | --- | --- | --- |
 | [oTagLib](https://github.com/Squishy6094/better-coins-coop/blob/main/libs/oTagLib.lua) | Squishy6094/better-coins-coop | Handles giving objects player-like nametags |
 | [File Share](https://github.com/PeachyPeachSM64/coopdx-libs/tree/master/fish) | PeachyPeachSM64/coopdx-libs | Sends and receives ModFS files over the network |
-| [o2oint](https://github.com/PeachyPeachSM64/coopdx-libs/tree/master/o2oint) | PeachyPeachSM64/coopdx-libs | Handles object to object interactions. |
+| [o2oint](https://github.com/PeachyPeachSM64/coopdx-libs/tree/master/o2oint) | PeachyPeachSM64/coopdx-libs | Handles object to object interactions |
 
 ## External Libraries
 Library based mods made for the express purpouse of having add-ons.
 | Name | Maintainer | Description |
 | --- | --- | --- |
 | [Character Select](https://github.com/Squishy6094/character-select-coop) | Squishy6094 | Handles adding Characters and giving characters specific functionality |
+
+## Templates
+Repositories made to be cloned and modified for your own use case
+| Name | Maintainer | Description |
+| --- | --- | --- |
+| [Rom Hacking Template](https://github.com/Squishy6094/rom-hack-template-coop) | Squishy6094 | A simple romhack with a basic blend for modifying Castle Grounds |
+| [Character Select Template](https://github.com/Squishy6094/char-select-template) | Squishy6094 | The baseline for creating a Character Select pack |
